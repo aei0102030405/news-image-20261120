@@ -1,5 +1,6 @@
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261120)
-[![repo](https://img.shields.io/badge/repo-aei0102030405%2Fnews-image--20261120-green)](https://github.com/aei0102030405/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/aei0102030405/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/aei0102030405/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 # news-image-20261120
 
